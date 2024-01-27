@@ -2,7 +2,7 @@
 wow, u found my github
 
 
-#### My name is Lucaas
+#### My name is Tris!
 - 🌱 idk what i am doing, but, yes.
 - ⚡ Fun fact: I'm brazilian, and no, i'm not speak spanish.
 
