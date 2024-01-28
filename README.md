@@ -1,6 +1,6 @@
 ### Heya 👋
-wow, u found my github
-
+Hello! welcome to my github! How are you?
+My name is Tris, i'm 17 years old, i am brazilian and a transgirl!
 
 #### My name is Tris!
 - 🌱 idk what i am doing, but, yes.
