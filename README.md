@@ -1,14 +1,22 @@
-### Heya! 👋
-Hello there! Welcome to my GitHub profile! How are you doing?
-
-My name is Tris, and I'm a passionate 17-year-old Brazilian transgirl based in the city of São Paulo.
-
-#### Some fun tidbits about me:
-- 🌱 I'm still in the process of mastering programming, so you might stumble upon some code that's a work in progress in my projects! But hey, we all gotta start somewhere, right?
-- ⚡ Fun fact: São Paulo, Brazil, is my hometown and the place where my heart resides!
-- 📕 Currently, I'm engaged in an exciting project at Denky!, crafting a bot for Discord!
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Triis0007&show_icons=true&theme=tokyonight)](https://github.com/Triis0007)
-
-Feel free to explore my projects and don't hesitate to reach out if you'd like to collaborate or just chat about all things tech and beyond! 🚀
-I'm still learning, so please, don't judge me too harshly!
+<div>
+    <h1>Heya! <span>👋</span></h1>
+    <p>Hello there! Welcome to my GitHub profile! How are you doing?</p>
+    <p>My name is Tris, and I'm a passionate 17-year-old Brazilian transgirl based in the vibrant city of São Paulo.</p>
+    <h4>Some Fun Tidbits About Me:</h4>
+    <ul>
+        <li>
+            <p>🌱 I'm still in the process of mastering programming, so you might stumble upon some code that's a work in progress in my projects! But hey, we all gotta start somewhere, right? I'm still learning, so please, don't judge me too harshly!</p>
+        </li>
+        <li>
+            <p>⚡ Fun fact: São Paulo, Brazil, is my hometown and the place where my heart resides!</p>
+        </li>
+        <li>
+            <p>📕 Currently, I'm engaged in an exciting project at Denky!, crafting a bot for Discord that promises to add a spark to online interactions!</p>
+        </li>
+    </ul>
+    <p>Feel free to explore my projects and don't hesitate to reach out if you'd like to collaborate or just chat about all things tech and beyond! 🚀</p>
+    <a href="https://github.com/Triis0007">
+        <img src="https://github-readme-stats.vercel.app/api?username=Triis0007&show_icons=true&theme=tokyonight" alt="GitHub stats"> <br>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Triis0007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    </a>
+</div>
