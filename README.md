@@ -11,7 +11,7 @@
             <p>⚡ Fun fact: São Paulo, Brazil, is my hometown and the place where my heart resides!</p>
         </li>
         <li>
-            <p>📕 Currently, I'm engaged in an exciting project at Denky!, crafting a bot for Discord that promises to add a spark to online interactions!</p>
+            <p>📕 I'm currently engaged in helping on translations of projects on github!</p>
         </li>
     </ul>
     <p>Feel free to explore my projects and don't hesitate to reach out if you'd like to collaborate or just chat about all things tech and beyond! 🚀</p>
