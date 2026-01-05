@@ -1,7 +1,7 @@
 <div>
     <h1>Heya! <span>👋</span></h1>
     <p>Hello there! Welcome to my GitHub profile! How are you doing?</p>
-    <p>My name is Tris, and I'm a passionate 18-year-old Brazilian transgirl based in the city of São Paulo.</p>
+    <p>My name is Tris, and I'm a passionate 19-year-old Brazilian transgirl based in the city of São Paulo.</p>
     <h4>Some Fun Tidbits About Me:</h4>
     <ul>
         <li>
